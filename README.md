@@ -1,5 +1,5 @@
-# drdo-drone-challenge
-Team:Bombay76
+# DRDO Vision-based Obstacle Avoidance Drone
+Team: Bombay76
 
 ## Problem Statement
 
